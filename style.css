@@ -1,0 +1,28 @@
+#margen{
+    margin-left: 700px;
+}
+
+#margen1{
+    margin-left: 30px;
+}
+
+body{
+    background-image: url("imagenes/BeFunky-photo.png");
+    }
+
+p{
+    margin-left: 950px;
+    margin-top: 125px;
+}
+
+.linea{
+    height: 1px;
+    border: 1;
+    width: 35%;
+    margin-right: 4%;
+    background-color: #9FFF33;
+}
+
+#boton{
+    margin-left: 910px;
+}
